@@ -3,7 +3,7 @@ set -euo pipefail
 
 mkdir -p apps
 
-APKMD_RELEASE_URL="https://github.com/tanishqmanuja/apkmirror-downloader/releases/latest/download/apkmd"
+APKMD_RELEASE_URL="https://github.com/AzimsTech/apkmirror-downloader/releases/latest/download/apkmd"
 apps=(
   "google-inc|youtube|com.google.android.youtube|Youtube"
   "google-inc|youtube-music|com.google.android.apps.youtube.music|YTMusic"
