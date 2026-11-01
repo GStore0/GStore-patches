@@ -1,4 +1,4 @@
-# AuroraStore-BYD-apps
+# GStore-patches
 
 Repository for building and publishing the `microg-patches.mpp` patch bundle using **Morphe**, targeting Android AOSP devices without built-in Google Mobile Services (GMS).
 
